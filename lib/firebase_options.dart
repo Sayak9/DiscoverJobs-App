@@ -41,7 +41,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyCckk_jmziY8BkQo5DrI2Ee5GpUHOmpdr0',
+    apiKey: ,
     appId: '1:524234647571:web:51d9bf4a83e8f68f7f37e6',
     messagingSenderId: '524234647571',
     projectId: 'discoverjobs-e79c2',
@@ -50,7 +50,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyD8-3XMpH34zn-sRhYWVbw3QqxTtGpxwec',
+    apiKey: ,
     appId: '1:524234647571:android:1d4b9cc80cc345037f37e6',
     messagingSenderId: '524234647571',
     projectId: 'discoverjobs-e79c2',
@@ -58,7 +58,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyC5ClUNlWok8zjzLu8LQoTkHRrO5kx_jeQ',
+    apiKey: ,
     appId: '1:524234647571:ios:3d53e42bb7a90b4f7f37e6',
     messagingSenderId: '524234647571',
     projectId: 'discoverjobs-e79c2',
@@ -67,7 +67,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyC5ClUNlWok8zjzLu8LQoTkHRrO5kx_jeQ',
+    apiKey: ,
     appId: '1:524234647571:ios:3d53e42bb7a90b4f7f37e6',
     messagingSenderId: '524234647571',
     projectId: 'discoverjobs-e79c2',
@@ -76,7 +76,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyCckk_jmziY8BkQo5DrI2Ee5GpUHOmpdr0',
+    apiKey: ,
     appId: '1:524234647571:web:e33a425dee4940e97f37e6',
     messagingSenderId: '524234647571',
     projectId: 'discoverjobs-e79c2',
